@@ -4,16 +4,12 @@
 
 </div>
 
-AI undergraduate with interests in **machine learning** and **intelligent systems**.
-
----
 
 ## Profile
 - 🎓 **B.Eng. in Artificial Intelligence**, Southeast University  
 - 🧠 Interests: human preference modeling, system design  
 
-Currently working on building systems that **learn and reflect human taste**,  
-with an emphasis on clarity, alignment, and usability.
+AI undergraduate with interests in **machine learning** and **intelligent systems**.
 
 ---
 
