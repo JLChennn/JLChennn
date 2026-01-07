@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=JLChennn&fontAlign=50&fontAlignY=40&color=0:020617,100:334155&fontColor=f8fafc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=JLChennn&fontAlign=50&fontAlignY=42&color=0:020617,100:020617&fontColor=e5e7eb" />
 
 </div>
+
 
 
 
