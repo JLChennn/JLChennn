@@ -1,45 +1,58 @@
 # JLChennn
 
-AI undergraduate focusing on **preference learning** and **video enhancement & editing systems**.
+AI undergraduate with a focus on **preference learning** and  
+**video enhancement & editing systems**.
 
 ---
 
-## About
-- 🎓 AI Undergraduate @ SEU  
-- 🎬 Working on preference-driven video enhancement and editing  
+## Profile
+- 🎓 **B.Eng. in Artificial Intelligence**, Southeast University  
+- 🎬 Research-oriented projects in preference-driven video systems  
 - 🧠 Interests: human preference modeling, visual quality assessment, system design  
 
-I care about building **clean, aligned, and usable systems**, not just demos.
+Currently working on building systems that **learn and reflect human taste**,  
+with an emphasis on clarity, alignment, and usability.
 
 ---
 
-## Selected Projects
+## Experience & Projects
 
 ### PrefCut  
-**Preference-driven video highlight selection system**
+**Preference-driven Video Highlight Selection System**  
+`Python · PyTorch · FastAPI`
 
-A system that models human preferences to rank and select video clips.  
-Includes video slicing, scoring, ranking, and an end-to-end web demo.
+- Models human preference signals to score and rank video clips  
+- Pipeline: video slicing → preference scoring → clip selection  
+- Includes an end-to-end demo (upload → process → download)
 
 → https://github.com/JLChennn/PrefCut
 
 ---
 
 ### KnowledgeBaseAide  
-**Knowledge-assisted reasoning and QA system**
+**Knowledge-assisted Reasoning & QA System**  
+`Java · Knowledge Graph · Rule-based Reasoning`
 
-A structured knowledge base with rule-based and semantic reasoning support,  
-designed for extensibility and system integration.
+- Structured knowledge base construction  
+- Rule-based and semantic reasoning support  
+- Designed for extensibility and system integration
 
 → https://github.com/JLChennn/KnowledgeBaseAide
 
 ---
 
-## Tech
-- Python, PyTorch  
-- FastAPI, Web systems  
-- Java, Spring  
-- MySQL, Linux  
+## Skills
+- **Languages**: Python, Java  
+- **Frameworks**: PyTorch, FastAPI, Spring  
+- **Systems**: Linux, MySQL  
+- **Focus Areas**: preference learning, video systems, system integration  
+
+---
+
+## Current Focus
+- Preference modeling for visual quality and editing decisions  
+- Video understanding and clip-level evaluation  
+- Building research-oriented but usable systems  
 
 ---
 
@@ -49,4 +62,4 @@ designed for extensibility and system integration.
 ---
 
 ## Contact
-Email: your_email@example.com
+- Email: your_email@example.com
