@@ -1,6 +1,4 @@
-<!-- =======================
-     HERO BANNER
-======================== -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=JLChennn&fontAlign=50&fontAlignY=35&desc=Preference%20Learning%20%7C%20Video%20Enhancement%20%26%20Editing&descAlign=50&descAlignY=55&color=0:0b0f17,100:111827&fontColor=ffffff" />
