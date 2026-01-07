@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=JLChennn&fontAlign=50&fontAlignY=40&color=0:0b0f17,100:111827&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=JLChennn&fontAlign=50&fontAlignY=40&color=0:0f172a,100:1e293b&fontColor=e5e7eb" />
 
 </div>
 
 
 ## Profile
+AI undergraduate with interests in **machine learning** and **intelligent systems**.
 - 🎓 **B.Eng. in Artificial Intelligence**, Southeast University  
 - 🧠 Interests: human preference modeling, system design  
-
-AI undergraduate with interests in **machine learning** and **intelligent systems**.
 
 ---
 
