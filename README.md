@@ -4,8 +4,6 @@
 
 </div>
 
-# JLChennn
-
 AI undergraduate with interests in **machine learning** and **intelligent systems**.
 
 ---
