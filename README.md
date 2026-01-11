@@ -15,7 +15,7 @@ AI undergraduate with interests in **machine learning** and **intelligent system
 
 ## LeetCode Stats
 
-[![LeetCode Stats](https://stats.justsong.cn/api/leetcode?username=lin-hd&cn=true)](https://leetcode.cn/u/lin-hd/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/lin-hd?site=cn)](https://leetcode.cn/u/lin-hd/)
 
 ---
 
