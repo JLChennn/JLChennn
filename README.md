@@ -15,7 +15,13 @@ AI undergraduate with interests in **machine learning** and **intelligent system
 
 ## LeetCode Stats
 
-<img src="https://stats.justsong.cn/api/leetcode?username=lin-hd&cn=true&hide=ranking&hide_title=true" />
+<h2>LeetCode Stats</h2>
+<a href="https://leetcode.cn/u/lin-hd/">
+  <img 
+    src="https://stats.justsong.cn/api/leetcode?username=lin-hd&cn=true&hide=ranking&hide_title=true&theme=dark"
+    style="box-shadow:none !important"
+  />
+</a>
 
 ---
 
