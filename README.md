@@ -9,7 +9,13 @@
 ## Profile
 AI undergraduate with interests in **machine learning** and **intelligent systems**.
 - 🎓 **B.Eng. in Artificial Intelligence**, Southeast University  
-- 🧠 Interests: human preference modeling, system design  
+- 🧠 Interests: human preference modeling, system design
+  
+---
+
+## LeetCode Stats
+
+[![LeetCode Stats](https://stats.justsong.cn/api/leetcode?username=lin-hd&cn=true)](https://leetcode.cn/u/lin-hd/)
 
 ---
 
