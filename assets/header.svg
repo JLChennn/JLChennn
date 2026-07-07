@@ -1,0 +1,29 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #faf9f5; }
+      .name { font-family: ui-serif, Georgia, 'Times New Roman', serif; font-size: 56px; font-weight: 500; fill: #141413; letter-spacing: -0.02em; }
+      .line { stroke: #d97757; stroke-width: 2; }
+      .accent { fill: #e8e6dc; }
+      .dot { fill: #d97757; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect class="bg" width="1000" height="220" />
+
+  <!-- subtle geometric accents -->
+  <circle class="accent" cx="860" cy="70" r="90" opacity="0.6" />
+  <circle class="accent" cx="920" cy="150" r="60" opacity="0.4" />
+  <circle class="dot" cx="820" cy="160" r="6" opacity="0.9" />
+  <circle class="dot" cx="850" cy="180" r="3" opacity="0.6" />
+
+  <!-- vertical accent line -->
+  <line class="line" x1="80" y1="60" x2="80" y2="160" />
+
+  <!-- name -->
+  <text class="name" x="110" y="120">JLChennn</text>
+
+  <!-- horizontal accent line -->
+  <line class="line" x1="110" y1="150" x2="240" y2="150" opacity="0.8" />
+</svg>
