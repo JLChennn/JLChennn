@@ -68,19 +68,14 @@ My work sits at the intersection of computer systems and machine learning.
 ## GitHub
 
 <!--
-  这些卡片来自 github-readme-stats，参数说明：
-  - username: 你的 GitHub 用户名
-  - title_color / text_color: 标题和文字颜色
-  - icon_color: 图标颜色（陶土橙 #d97757）
-  - bg_color: 卡片背景（Claude 暖白 #faf9f5）
-  - border_color: 边框颜色
-  - hide: 隐藏某些统计项，如 issues, stars 等
-  - langs_count: Top Languages 显示的语言数量
-  如想完全去掉统计卡片，删除下方整个 <p>...</p> 块即可。
+  GitHub 统计卡片由 .github/workflows/update-stats.yml 自动生成，
+  每天从 github-readme-stats 拉取并保存为本地 SVG，避免外部服务不稳定导致加载失败。
+  如需调整配色或参数，修改 workflow 文件中的 URL 参数即可。
+  如想去掉统计卡片，删除下方整个 <p>...</p> 块并删除对应 workflow 文件即可。
 -->
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JLChennn&amp;show_icons=true&amp;title_color=141413&amp;text_color=141413&amp;icon_color=d97757&amp;bg_color=faf9f5&amp;border_color=e8e6dc&amp;border_radius=10&amp;hide=issues" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLChennn&amp;layout=compact&amp;title_color=141413&amp;text_color=141413&amp;bg_color=faf9f5&amp;border_color=e8e6dc&amp;border_radius=10&amp;langs_count=6" alt="Top Languages">
+  <img height="165" src="./assets/github-stats.svg" alt="GitHub Stats">
+  <img height="165" src="./assets/top-langs.svg" alt="Top Languages">
 </p>
 
 <br>
