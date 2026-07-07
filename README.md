@@ -58,7 +58,7 @@ My work sits at the intersection of computer systems and machine learning.
   3. 不需要的链接可以直接删除整行；需要 website 则取消下面一行的注释
 -->
 <p>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-待填写-d97757?style=flat-square&amp;logo=gmail&amp;logoColor=faf9f5&amp;labelColor=141413" alt="Email"></a>
+  <a href="mailto:C72739804@163.com"><img src="https://img.shields.io/badge/Email-C72739804@163.com-d97757?style=flat-square&amp;logo=gmail&amp;logoColor=faf9f5&amp;labelColor=141413" alt="Email"></a>
   <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-待填写-6a9bcc?style=flat-square&amp;logo=linkedin&amp;logoColor=faf9f5&amp;labelColor=141413" alt="LinkedIn"></a>
   <!-- <a href="https://your-website.com/"><img src="https://img.shields.io/badge/Website-待填写-788c5d?style=flat-square&amp;logo=googlechrome&amp;logoColor=faf9f5&amp;labelColor=141413" alt="Website"></a> -->
 </p>
