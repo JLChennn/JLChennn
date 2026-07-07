@@ -62,24 +62,3 @@ My work sits at the intersection of computer systems and machine learning.
   <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-待填写-6a9bcc?style=flat-square&amp;logo=linkedin&amp;logoColor=faf9f5&amp;labelColor=141413" alt="LinkedIn"></a>
   <!-- <a href="https://your-website.com/"><img src="https://img.shields.io/badge/Website-待填写-788c5d?style=flat-square&amp;logo=googlechrome&amp;logoColor=faf9f5&amp;labelColor=141413" alt="Website"></a> -->
 </p>
-
-<br>
-
-## GitHub
-
-<!--
-  GitHub 统计卡片由 .github/workflows/update-stats.yml 自动生成，
-  每天从 github-readme-stats 拉取并保存为本地 SVG，避免外部服务不稳定导致加载失败。
-  如需调整配色或参数，修改 workflow 文件中的 URL 参数即可。
-  如想去掉统计卡片，删除下方整个 <p>...</p> 块并删除对应 workflow 文件即可。
--->
-<p align="left">
-  <img height="165" src="./assets/github-stats.svg" alt="GitHub Stats">
-  <img height="165" src="./assets/top-langs.svg" alt="Top Languages">
-</p>
-
-<br>
-
-<p align="center">
-  <samp>Last updated: <!-- 最后更新日期，例如：July 2026 --></samp>
-</p>
