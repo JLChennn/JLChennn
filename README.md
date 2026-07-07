@@ -51,16 +51,33 @@ My work sits at the intersection of computer systems and machine learning.
 
 ## Contact
 
+<!--
+  修改方式：
+  1. 把 href 里的占位符换成你的真实链接
+  2. 把 badge 文字 "待填写" 换成你想要的显示文字
+  3. 不需要的链接可以直接删除整行；需要 website 则取消下面一行的注释
+-->
 <p>
-  <a href="mailto:<!-- C72739804@164.com -->"><img src="https://img.shields.io/badge/Email-待填写-d97757?style=flat-square&amp;logo=gmail&amp;logoColor=faf9f5&amp;labelColor=141413" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/<!-- 你的 LinkedIn -->"><img src="https://img.shields.io/badge/LinkedIn-待填写-6a9bcc?style=flat-square&amp;logo=linkedin&amp;logoColor=faf9f5&amp;labelColor=141413" alt="LinkedIn"></a>
-  <!-- <a href="https://你的网站或博客/"><img src="https://img.shields.io/badge/Website-待填写-788c5d?style=flat-square&amp;logo=googlechrome&amp;logoColor=faf9f5&amp;labelColor=141413" alt="Website"></a> -->
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-待填写-d97757?style=flat-square&amp;logo=gmail&amp;logoColor=faf9f5&amp;labelColor=141413" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-待填写-6a9bcc?style=flat-square&amp;logo=linkedin&amp;logoColor=faf9f5&amp;labelColor=141413" alt="LinkedIn"></a>
+  <!-- <a href="https://your-website.com/"><img src="https://img.shields.io/badge/Website-待填写-788c5d?style=flat-square&amp;logo=googlechrome&amp;logoColor=faf9f5&amp;labelColor=141413" alt="Website"></a> -->
 </p>
 
 <br>
 
 ## GitHub
 
+<!--
+  这些卡片来自 github-readme-stats，参数说明：
+  - username: 你的 GitHub 用户名
+  - title_color / text_color: 标题和文字颜色
+  - icon_color: 图标颜色（陶土橙 #d97757）
+  - bg_color: 卡片背景（Claude 暖白 #faf9f5）
+  - border_color: 边框颜色
+  - hide: 隐藏某些统计项，如 issues, stars 等
+  - langs_count: Top Languages 显示的语言数量
+  如想完全去掉统计卡片，删除下方整个 <p>...</p> 块即可。
+-->
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JLChennn&amp;show_icons=true&amp;title_color=141413&amp;text_color=141413&amp;icon_color=d97757&amp;bg_color=faf9f5&amp;border_color=e8e6dc&amp;border_radius=10&amp;hide=issues" alt="GitHub Stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLChennn&amp;layout=compact&amp;title_color=141413&amp;text_color=141413&amp;bg_color=faf9f5&amp;border_color=e8e6dc&amp;border_radius=10&amp;langs_count=6" alt="Top Languages">
